@@ -1,6 +1,5 @@
-package com.wxutil.wxpay.entity;
+package com.wxutil.wxpaysdk.entity;
 
-import cn.jr.cose.api.entity.Base;
 import lombok.Data;
 
 import java.io.Serializable;

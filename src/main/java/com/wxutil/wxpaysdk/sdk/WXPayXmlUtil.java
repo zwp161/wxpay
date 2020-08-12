@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.sdk;
+package com.wxutil.wxpaysdk.sdk;
 
 import org.w3c.dom.Document;
 

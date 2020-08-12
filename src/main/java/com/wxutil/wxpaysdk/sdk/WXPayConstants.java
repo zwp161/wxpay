@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.sdk;
+package com.wxutil.wxpaysdk.sdk;
 
 import org.apache.http.client.HttpClient;
 

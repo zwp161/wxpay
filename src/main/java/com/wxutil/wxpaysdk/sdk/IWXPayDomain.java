@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.sdk;
+package com.wxutil.wxpaysdk.sdk;
 
 /**
  * 域名管理，实现主备域名自动切换

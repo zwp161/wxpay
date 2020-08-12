@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.sdk;
+package com.wxutil.wxpaysdk.sdk;
 
 //import cn.jr.cose.api.exception.BusinessException;
 //import cn.jr.cose.provider.mapper.SystemConfigMapper;

@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.utils;
+package com.wxutil.wxpaysdk.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

@@ -1,16 +1,15 @@
-package com.wxutil.wxpay.service.impl;
+package com.wxutil.wxpaysdk.service.impl;
 
 import com.alibaba.fastjson.JSON;
-import com.wxutil.wxpay.entity.OrderQuery;
-import com.wxutil.wxpay.entity.WxPayParamVariable;
-import com.wxutil.wxpay.sdk.MyWXPayConfig;
-import com.wxutil.wxpay.sdk.WXPay;
-import com.wxutil.wxpay.sdk.WXPayConstants;
-import com.wxutil.wxpay.sdk.WXPayUtil;
-import com.wxutil.wxpay.service.WeixinService;
-import com.wxutil.wxpay.utils.SpringContextUtils;
+import com.wxutil.wxpaysdk.entity.OrderQuery;
+import com.wxutil.wxpaysdk.entity.WxPayParamVariable;
+import com.wxutil.wxpaysdk.sdk.MyWXPayConfig;
+import com.wxutil.wxpaysdk.sdk.WXPay;
+import com.wxutil.wxpaysdk.sdk.WXPayConstants;
+import com.wxutil.wxpaysdk.sdk.WXPayUtil;
+import com.wxutil.wxpaysdk.service.WeixinService;
+import com.wxutil.wxpaysdk.utils.SpringContextUtils;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;
 
 import java.text.MessageFormat;

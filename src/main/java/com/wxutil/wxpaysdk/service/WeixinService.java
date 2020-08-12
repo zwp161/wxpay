@@ -1,7 +1,7 @@
-package com.wxutil.wxpay.service;
+package com.wxutil.wxpaysdk.service;
 
-import com.wxutil.wxpay.entity.OrderQuery;
-import com.wxutil.wxpay.entity.WxPayParamVariable;
+import com.wxutil.wxpaysdk.entity.OrderQuery;
+import com.wxutil.wxpaysdk.entity.WxPayParamVariable;
 
 import java.util.Map;
 

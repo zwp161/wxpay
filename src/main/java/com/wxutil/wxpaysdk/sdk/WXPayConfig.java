@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.sdk;
+package com.wxutil.wxpaysdk.sdk;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package com.wxutil.wxpay.entity;
+package com.wxutil.wxpaysdk.entity;
 
 import lombok.Data;
 
